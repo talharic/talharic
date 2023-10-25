@@ -3,7 +3,7 @@
 
 - **Works on Java Web-Based Applications and fintech projects and end to end Card Payment Solution Systems such as Credit, Debit, Prepaid card systems.**
 
-- **Switch Transaction Management and Online Authorization in Payment Systems.**
+- **National Switch, Visa / MasterCard Switch Transaction Management and Online Authorization in Payment Systems.**
 
 - **-Java, Spring, Spring Boot, ISO 8583, Hibernate, REST, SOAP, TCP/IP, Client-Server Architecture in Java, JPA, Maven, PostgreSQL, MSSQL, Design Patterns, OOP Structure, SOLID, Elasticsearch, GrayLog, Redis, Docker, RabbitMQ, Azure DevOps, OpenShift, Kubernetes Lens knows programming languages, technologies and patterns.**
 
