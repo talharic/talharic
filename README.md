@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Talha Arıç</h1>
-<h3 align="center">Java Software Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 - **Works on Java Applications and fintech projects and end to end Card Payment Solution Systems such as Credit, Debit, Prepaid card systems.**
 
